@@ -911,6 +911,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #edeae3 !im
 
 #convo_container ts-conversation ts-message.selected { background: #222; }
 
+.c-message__sender { background: #e1e2c5; }
 #convo_container ts-conversation ts-relatives::after { background: #545454; }
 
 #convo_container ts-conversation ts-relatives ts-message.deleted .message_icon i { background-color: #545454; color: #e8dede; }
